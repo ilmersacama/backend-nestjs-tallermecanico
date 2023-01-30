@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "erp_database",
+            "username": "postgres",
+            "password": "admin",
+            "database": "nestjs_backend"
+        }
+    ]
+}
